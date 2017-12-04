@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Kovid Goyal
+# This file is distributed under the same license as the calibre package.
+# 
+# Translators:
+# Toon van Gerwen <translation@vgerwen.nl>, 2015
+# Volluta <volluta@tutanota.com>, 2015
+# W.P.M.E. Hofland <wpme.hofland@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: calibre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-25 09:23+0530\n"
+"PO-Revision-Date: 2017-09-20 09:42+0000\n"
+"Last-Translator: Kovid Goyal <kovid@kovidgoyal.net>\n"
+"Language-Team: Dutch (http://www.transifex.com/calibre/calibre/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:4
+msgid "calibre User Manual"
+msgstr "calibre Gebruikershandleiding"
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:6
+msgid ""
+"calibre is an e-book library manager. It can view, convert and catalog "
+"e-books in most of the major e-book formats. It can also talk to many e-book"
+" reader devices. It can go out to the Internet and fetch metadata for your "
+"books. It can download newspapers and convert them into e-books for "
+"convenient reading. It is cross platform, running on Linux, Windows and "
+"macOS."
+msgstr "Calibreis een e-book bibliotheek manager. Het kan e-books bekijken, converteren en catalogiseren in de meeste grote e-bookformaten. Het kan ook communiseren met veel e-book lezer apparaten. Het kan naar het internet gaan en metadata voor je boeken ophalen. Het kan kranten downloaden en omzetten in e-books voor een gemakkelijke lezen. Het is cross platform, draait op Linux, Windows en MacOS."
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:8
+msgid ""
+"You've just started calibre. What do you do now? Before calibre can do "
+"anything with your e-books, it first has to know about them. Drag and drop a"
+" few e-book files into calibre, or click the \"Add books\" button and browse"
+" for the e-books you want to work with. Once you've added the books, they "
+"will show up in the main view looking something like this:"
+msgstr "Je bent net begonnen met het gebruik van Calibre. Hoe moet het verder? Alvorens Calibre iets kan doen met je e-books, moet het je boeken leren kennen. Sleep een aantal e-books in Calibre, of voeg ze toe via de knop \"boeken toevoegen\", om de boeken toe te voegen die je wil gebruiken. Eenmaal de boeken zijn toegevoegd, worden ze getoond in het hoofdscherm zoals hieronder:"
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:12
+msgid ""
+"Once you've admired the list of books you just added to your heart's "
+"content, you'll probably want to read one. In order to do that you'll have "
+"to convert the book to a format your reader understands. When first running "
+"calibre, the Welcome Wizard starts and will set up calibre for your reader "
+"device. Conversion is a breeze. Just select the book you want to convert "
+"then click the \"Convert books\" button. Ignore all the options for now and "
+"click \"OK\". The little icon in the bottom right corner will start "
+"spinning. Once it's finished spinning, your converted book is ready. Click "
+"the \"View\" button to read the book."
+msgstr "Zodra u de lijst van boeken die je net hebt toegevoegd heeft bewonderd zult u waarschijnlijk aan het lezen slaan. Een boek dient geconverteerd te worden naar een formaat dat uw lezer begrijpt. Bij het eerste gebruik van Calibre zal de \"Welkom wizard\" starten en kunt u instellingen maken voor uw apparaat. Selecteer gewoon het boek dat u wilt converteren en klik op de \"Converteer boek\" knop. Negeer alle opties voor nu en klik op \"OK\". Het kleine icoontje in de rechter benedenhoek zal beginnen met draaien. Klik op de \"View\" knop om het boek te lezen."
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:14
+msgid ""
+"If you want to read the book on your reader, connect it to the computer, "
+"wait till calibre detects it (10-20 seconds) and then click the \"Send to "
+"device\" button. Once the icon stops spinning again, disconnect your reader "
+"and read away! If you didn't convert the book in the previous step, calibre "
+"will auto convert it to the format your reader device understands."
+msgstr "Wanneer u een boek op uw reader wil plaatsen. Sluit de reader aan op uw pc en wacht tot Calibre de reader detecteert (10-20 seconden). Klik vervolgens op de knop \"Verzenden naar apparaat\". Zodra het pictogram stopt met spinnen kunt u afkoppelen. Als u het boek niet geconverteerd heeft bij de vorige stap, zal Calibre het boek converteren naar het formaat van uw apparaat begrijpt."
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:16
+msgid ""
+"To get started with more advanced usage, you should read about :doc:`gui`. "
+"For even more power and versatility, learn the :doc:`generated/en/cli-"
+"index`. You will find the list of :doc:`faq` useful as well."
+msgstr "Om te beginnen met meer geavanceerd gebruik, zou u moeten lezen over  :doc:`gui`. Voor nog krachtiger functies, leer :doc:`generated/nl/cli-index`. Tevens zal u de lijst  :doc:`faq` nuttig vinden."
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:20
+msgid ""
+"**An e-book version of this user manual is available in** `EPUB format "
+"<calibre.epub>`_,  `AZW3 (Kindle Fire) format <calibre.azw3>`_ and `PDF "
+"format <calibre.pdf>`_."
+msgstr "**Een e-book versie van deze gebruikershandleiding is beschikbaar in** `EPUB format <calibre.epub>`_,  `AZW3 (Kindle Fire) format <calibre.azw3>`_ en `PDF format <calibre.pdf>`_."
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:23
+msgid "Sections"
+msgstr "Paragrafen"

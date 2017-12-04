@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Kovid Goyal
+# This file is distributed under the same license as the calibre package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: calibre\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-25 09:23+0530\n"
+"PO-Revision-Date: 2017-09-20 09:42+0000\n"
+"Last-Translator: Kovid Goyal <kovid@kovidgoyal.net>\n"
+"Language-Team: Vietnamese (http://www.transifex.com/calibre/calibre/language/vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:4
+msgid "calibre User Manual"
+msgstr "Hướng dẫn sử dụng calibre"
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:6
+msgid ""
+"calibre is an e-book library manager. It can view, convert and catalog "
+"e-books in most of the major e-book formats. It can also talk to many e-book"
+" reader devices. It can go out to the Internet and fetch metadata for your "
+"books. It can download newspapers and convert them into e-books for "
+"convenient reading. It is cross platform, running on Linux, Windows and "
+"macOS."
+msgstr ""
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:8
+msgid ""
+"You've just started calibre. What do you do now? Before calibre can do "
+"anything with your e-books, it first has to know about them. Drag and drop a"
+" few e-book files into calibre, or click the \"Add books\" button and browse"
+" for the e-books you want to work with. Once you've added the books, they "
+"will show up in the main view looking something like this:"
+msgstr ""
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:12
+msgid ""
+"Once you've admired the list of books you just added to your heart's "
+"content, you'll probably want to read one. In order to do that you'll have "
+"to convert the book to a format your reader understands. When first running "
+"calibre, the Welcome Wizard starts and will set up calibre for your reader "
+"device. Conversion is a breeze. Just select the book you want to convert "
+"then click the \"Convert books\" button. Ignore all the options for now and "
+"click \"OK\". The little icon in the bottom right corner will start "
+"spinning. Once it's finished spinning, your converted book is ready. Click "
+"the \"View\" button to read the book."
+msgstr "Một khi bạn đã ngưỡng mộ thư viện sách của mình xong, bạn có thể sẽ muốn đọc một cuốn. Nhưng để làm được điều đó, bạn phải chuyển đổi định dạng mà máy đọc sách của bạn có thể hiểu được. Khi chạy calibre lần đầu tiên, trình Chào đón sẽ khởi động và thực hiện các bước thiêt lập calibre cho thiết bị đọc sách của bạn. Việc chuyển đổi định dạng cũng rất dễ, bạn chỉ cần nhất nút \"Chuyển đổi định dạng sách\", bỏ qua các lựa chọn khác và nhấn \"OK\". Một biểu tượng nhỏ ở góc phải bên dưới màn hình sẽ bắt đầu quay. Khi biểu tượng này quay xong thì bạn có thể ấn \"Xem\" để xem sách của bạn."
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:14
+msgid ""
+"If you want to read the book on your reader, connect it to the computer, "
+"wait till calibre detects it (10-20 seconds) and then click the \"Send to "
+"device\" button. Once the icon stops spinning again, disconnect your reader "
+"and read away! If you didn't convert the book in the previous step, calibre "
+"will auto convert it to the format your reader device understands."
+msgstr "Nếu bạn muốn đọc cuốn một cuốn sách trong máy đọc ebook của bạn, hãy kết nối nó với máy tính, đợi cho đến khi calibre phát hiện ra máy đọc sách (khoảng 10-20 giây) và nhấn nút gửi tới thiết bị. Một khi biểu tượng gửi ngừng quay thì bạn có thể ngừng kết nối và đọc sách được rồi đấy! Nếu bạn chưa chuyển đổi định dạng như ở bước trước thì calibre sẽ tự động chuyển cuốn sách bạn muốn sang định dạng máy đọc sách của bạn có thể hiển thị được."
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:16
+msgid ""
+"To get started with more advanced usage, you should read about :doc:`gui`. "
+"For even more power and versatility, learn the :doc:`generated/en/cli-"
+"index`. You will find the list of :doc:`faq` useful as well."
+msgstr "with more advanced usage, you should read about :doc:`gui`. For even more pow"
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:20
+msgid ""
+"**An e-book version of this user manual is available in** `EPUB format "
+"<calibre.epub>`_,  `AZW3 (Kindle Fire) format <calibre.azw3>`_ and `PDF "
+"format <calibre.pdf>`_."
+msgstr ""
+
+#: ../../home/kovid/work/calibre/manual/simple_index.rst:23
+msgid "Sections"
+msgstr "Các phần"
